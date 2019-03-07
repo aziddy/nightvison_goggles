@@ -15,12 +15,25 @@ See in the dark
 
 
 
-## assembly
+## Assembly
+
+
+
+### Removing IR Filter on the camera
+
+Alot of cameras have IR filters to stop bright light from hitting the image sensor. We need to get rid of that so the camera can see the smallest amount light, including light not visable to the human eye
+
+It was adhesively bounded to edge of the camera sensors enclosure. So I took a blow dryer and knife to take it off
+
+<p align="center" style="vertical-align: top; position: relative" >
+<img align="top" style="vertical-align:top" src="https://github.com/aziddy/nightvison_goggles/blob/master/media/camera_ir_filter.png?raw=true" width="400"/>
+</p>
 
 
 
 
-
+<br>
+<br>
 
 
 <p align="center" style="vertical-align: top; position: relative" >
