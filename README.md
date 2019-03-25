@@ -21,7 +21,7 @@ See in the dark
 
 ### Removing IR Filter on the camera
 
-Alot of cameras have IR filters to stop bright light from hitting the image sensor. We need to get rid of that so the camera can see the smallest amount light, including light not visable to the human eye
+Alot of cameras have IR filters to stop bright light from hitting the image sensor. We need to get rid of that so the camera can see the smallest amount light, including non visable light.
 
 It was adhesively bounded to edge of the camera sensors enclosure. So I took a blow dryer and knife to take it off
 
