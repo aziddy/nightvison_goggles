@@ -45,7 +45,7 @@ It was adhesively bounded to edge of the camera sensors enclosure. So I took a b
 
 
 
-
+## Rev 2
 https://www.thingiverse.com/thing:1745757
 <p align="center" style="vertical-align: top; position: relative" >
 <img align="top" style="vertical-align:top" src="https://github.com/aziddy/nightvison_goggles/blob/master/media/cad.PNG?raw=true" width="400"/>
