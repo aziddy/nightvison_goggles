@@ -4,14 +4,17 @@
 
 
 ## Component List
-
+* ~~TFT Rearview Screen~~ (Rev 1)
+* ~~Mobile VR Headset with its lenses taken out~~ (Rev 1)
 * IR Flash Light
 * Phone Battery Bank with atleast 2 amp output
-* ~~TFT Rearview Screen~~ (Rev 1)
-* ~~Mobile VR Headset with its lenses taken out~~
-*  NTSC/PAL (Television) TFT Display - 2.0" https://www.adafruit.com/product/911
+* A Hat
+* 3D printed Monocular Display Mount Monocular Display https://www.thingiverse.com/thing:1745757
+* Hot Glue
+* NTSC/PAL (Television) TFT Display - 2.0" https://www.adafruit.com/product/911
 * Boost Convertor that can tolerate atleast 1A and can bring 5v to the voltage for the screen 
-* Camera with composite 
+* Camera with composite
+
 
 
 
