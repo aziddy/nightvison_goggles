@@ -29,11 +29,17 @@ Alot of cameras have IR filters to stop bright light from hitting the image sens
 It was adhesively bounded to edge of the camera sensors enclosure. So I took a blow dryer and knife to take it off
 
 <p align="center" style="vertical-align: top; position: relative" >
-<img align="top" style="vertical-align:top" src="https://github.com/aziddy/nightvison_goggles/blob/master/media/camera_ir_filter.png?raw=true" width="400"/>
+<img align="top" style="vertical-align:top" src="https://github.com/aziddy/nightvison_goggles/blob/master/media/camera_ir_filter_illustrated.png?raw=true" width="400"/>
 </p>
 
+<br>
+<br>
 
+## Rev 2 Wiring
 
+<p align="center" style="vertical-align: top; position: relative" >
+<img align="top" style="vertical-align:top" src="https://github.com/aziddy/nightvison_goggles/blob/master/media/wiring.PNG?raw=true" width="700"/>
+</p>
 
 <br>
 <br>
