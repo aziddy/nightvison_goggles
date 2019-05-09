@@ -51,11 +51,19 @@
 * Resistors 220, 210, 100 and 10 Ohm
 
 <p align="center" style="vertical-align: top; position: relative" >
+  
 <img align="top" style="vertical-align:top" src="https://github.com/aziddy/nightvison_goggles/blob/master/media/cad.PNG?raw=true" width="200"/>
   
-  <img align="top" style="vertical-align:top" src="https://github.com/aziddy/nightvison_goggles/blob/master/media/13423923_10154289054524036_8627727971720125782_n.jpg?raw=true" width="700"/>
+  <img align="top" style="vertical-align:top" src="https://github.com/aziddy/nightvison_goggles/blob/master/media/ir_flashlight.PNG?raw=true" width="400"/>
+  
+  <img align="top" style="vertical-align:top" src="https://github.com/aziddy/nightvison_goggles/blob/master/media/2inch_tft.PNG?raw=true" width="200"/>
+  
+  <img align="top" style="vertical-align:top" src="https://github.com/aziddy/nightvison_goggles/blob/master/media/boost%20reg.jpg?raw=true" width="200"/>
+  
   
 </p>
+
+
 
 
 ## Assembly
