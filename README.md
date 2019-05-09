@@ -1,4 +1,15 @@
 # nightvison_goggles
+
+## Rev 2
+<p align="center" style="vertical-align: top; position: relative" >
+<img align="top" style="vertical-align:top" src="https://github.com/aziddy/nightvison_goggles/blob/master/media/Untitled-2.png?raw=true" width="400"/>
+</p>
+
+
+## Rev 1
+
+
+
 ## (IN PROGRESS)
 
 
