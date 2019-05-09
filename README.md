@@ -92,6 +92,8 @@ It was adhesively bounded to edge of the camera sensors enclosure. So I took a b
 <img align="top" style="vertical-align:top" src="https://github.com/aziddy/nightvison_goggles/blob/master/media/wiring.PNG?raw=true" width="700"/>
   <br>
   <br>
+   <br>
+  <br>
     <img align="top" style="vertical-align:top" src="https://github.com/aziddy/nightvison_goggles/blob/master/media/wiring_proto.PNG?raw=true" width="400"/>
 </p>
 
