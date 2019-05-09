@@ -2,7 +2,13 @@
 
 ## Rev 2
 <p align="center" style="vertical-align: top; position: relative" >
+  
+<img align="top" style="vertical-align:top" src="https://github.com/aziddy/nightvison_goggles/blob/master/media/5.jpg?raw=true" width="400"/>  
+  
 <img align="top" style="vertical-align:top" src="https://github.com/aziddy/nightvison_goggles/blob/master/media/Untitled-2.png?raw=true" width="400"/>
+
+<img align="top" style="vertical-align:top" src="https://github.com/aziddy/nightvison_goggles/blob/master/media/6.jpg?raw=true" width="400"/>
+
 </p>
 
 
