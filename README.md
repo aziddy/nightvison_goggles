@@ -95,25 +95,22 @@ It was adhesively bounded to edge of the camera sensors enclosure. So I took a b
    <br>
   <br>
     <img align="top" style="vertical-align:top" src="https://github.com/aziddy/nightvison_goggles/blob/master/media/wiring_proto.PNG?raw=true" width="400"/>
-</p>
-
-<br>
-<br>
-
-## Rev 1
-
-
-
-
-
-
-## Rev 2
-https://www.thingiverse.com/thing:1745757
-<p align="center" style="vertical-align: top; position: relative" >
-<img align="top" style="vertical-align:top" src="https://github.com/aziddy/nightvison_goggles/blob/master/media/cad.PNG?raw=true" width="400"/>
+    <br>
+  <img align="top" style="vertical-align:top" src="https://github.com/aziddy/nightvison_goggles/blob/master/media/1.jpg?raw=true" width="300"/>
   
-
+  <img align="top" style="vertical-align:top" src="https://github.com/aziddy/nightvison_goggles/blob/master/media/IMG_20190504_210337.jpg?raw=true" width="300"/>
+  
+  <img align="top" style="vertical-align:top" src="https://github.com/aziddy/nightvison_goggles/blob/master/media/IMG_20190504_201211.jpg?raw=true" width="300"/>
+  
+  <img align="top" style="vertical-align:top" src="https://github.com/aziddy/nightvison_goggles/blob/master/media/MVIMG_20190504_210348.jpg?raw=true" width="300"/>
+  
 </p>
+
+
+
+
+<br>
+<br>
 
 
 
