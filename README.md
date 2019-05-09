@@ -9,6 +9,8 @@
 
 <img align="top" style="vertical-align:top" src="https://github.com/aziddy/nightvison_goggles/blob/master/media/6.jpg?raw=true" width="400"/>
 
+<img align="top" style="vertical-align:top" src="https://github.com/aziddy/nightvison_goggles/blob/master/media/2.jpg?raw=true" width="400"/>
+
 </p>
 
 
