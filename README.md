@@ -1,5 +1,8 @@
 # nightvison_goggles
 
+<br>
+<br>
+
 ## Rev 2
 <p align="center" style="vertical-align: top; position: relative" >
   
@@ -7,16 +10,29 @@
   
 <img align="top" style="vertical-align:top" src="https://github.com/aziddy/nightvison_goggles/blob/master/media/Untitled-2.png?raw=true" width="400"/>
 
-<img align="top" style="vertical-align:top" src="https://github.com/aziddy/nightvison_goggles/blob/master/media/6.jpg?raw=true" width="400"/>
+<img align="top" style="vertical-align:top;" src="https://github.com/aziddy/nightvison_goggles/blob/master/media/6.jpg?raw=true" width="400"/>
+
+<img align="top" style="vertical-align:top" src="https://github.com/aziddy/nightvison_goggles/blob/master/media/2.jpg?raw=true" width="400"/>
 
 </p>
 
+<br>
+<br>
+
 
 ## Rev 1
+<p align="center" style="vertical-align: top; position: relative" >
+<img align="top" style="vertical-align:top" src="https://github.com/aziddy/nightvison_goggles/blob/master/media/IMG_20160605_202914.jpg?raw=true" width="700"/>
+  
+  <img align="top" style="vertical-align:top" src="https://github.com/aziddy/nightvison_goggles/blob/master/media/13423923_10154289054524036_8627727971720125782_n.jpg?raw=true" width="700"/>
+  
+</p>
 
 
 
-## (IN PROGRESS)
+<br>
+<br>
+
 
 
 
@@ -64,9 +80,6 @@ It was adhesively bounded to edge of the camera sensors enclosure. So I took a b
 <br>
 
 ## Rev 1
-<p align="center" style="vertical-align: top; position: relative" >
-<img align="top" style="vertical-align:top" src="https://github.com/aziddy/nightvison_goggles/blob/master/media/IMG_20160605_202914.jpg?raw=true" width="700"/>
-</p>
 
 
 
