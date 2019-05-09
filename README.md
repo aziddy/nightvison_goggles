@@ -50,6 +50,8 @@
 * LM350 Linear Voltage Regulator
 * Resistors 220, 210, 100 and 10 Ohm
 
+<br>
+
 <p align="center" style="vertical-align: top; position: relative" >
   
 <img align="top" style="vertical-align:top" src="https://github.com/aziddy/nightvison_goggles/blob/master/media/cad.PNG?raw=true" width="200"/>
@@ -63,7 +65,8 @@
   
 </p>
 
-
+<br>
+<br>
 
 
 ## Assembly
