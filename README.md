@@ -56,6 +56,7 @@ So there obviously forms of light we can see. Like light bulbs, screens etc ...
 <br>
 So we if get a camera that can see Infrared, then connect it to a normal screen. Then we can see what camera can see, therefore we can see the Infrared now
 <br>
+<br>
 <p align="center" style="vertical-align: top; position: relative" >
   <img align="top" style="vertical-align:top" src="https://github.com/aziddy/nightvison_goggles/blob/master/media/3_isee.png?raw=true" width="600"/>
 </p>
