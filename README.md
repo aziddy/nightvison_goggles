@@ -37,8 +37,8 @@ Nightvision can be really easy. One way is to use infrared light, a camera and s
 
 ## How the Night Vision works
 
-<br>
-<br>
+
+
 
 So there obviously forms of light we can see. Like light bulbs, screens etc ...
 
