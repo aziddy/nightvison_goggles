@@ -72,6 +72,7 @@ So we if get a camera that can see Infrared, then connect it to a normal screen.
 * A Hat
 * 3D printed Monocular Display Mount Monocular Display https://www.thingiverse.com/thing:1745757
 * Hot Glue
+* Electrical Tape
 * NTSC/PAL (Television) TFT Display - 2.0" https://www.adafruit.com/product/911
 * Boost Convertor that can tolerate atleast 1A and can bring 5v to the voltage for the screen 
 * Camera with composite (yellow) ouput
