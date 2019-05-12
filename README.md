@@ -1,9 +1,10 @@
 # nightvison_goggles
 
-Nightvision can be really easy. One way is to use infrared light that humans can't see, but camera's can see to then project on a screen that human's can see
+Nightvision can be really easy. One way is to use infrared light, a camera and screen
 
 <br>
 <br>
+
 
 ## Rev 2
 <p align="center" style="vertical-align: top; position: relative" >
@@ -31,11 +32,36 @@ Nightvision can be really easy. One way is to use infrared light that humans can
 </p>
 
 
+<br>
+<br>
+
+## How the Night Vision works
 
 <br>
 <br>
 
+So there obviously forms of light we can see. Like light bulbs, screens etc ...
 
+<p align="center" style="vertical-align: top; position: relative" >
+<img align="top" style="vertical-align:top" src="https://github.com/aziddy/nightvison_goggles/blob/master/media/1_isee.png?raw=true" width="500"/>
+ </p> 
+ 
+ And there are also forms of light we can't directly see. Like Infrared
+
+<p align="center" style="vertical-align: top; position: relative" >
+  <img align="top" style="vertical-align:top" src="https://github.com/aziddy/nightvison_goggles/blob/master/media/2_idontsee.png?raw=true" width="500"/>
+</p>
+
+<br>
+<br>
+So we if get a camera that can see Infrared, then connect it to a normal screen. Then we can see what camera can see, therefore we can see the Infrared now
+
+<p align="center" style="vertical-align: top; position: relative" >
+  <img align="top" style="vertical-align:top" src="https://github.com/aziddy/nightvison_goggles/blob/master/media/3_isee.png?raw=true" width="600"/>
+</p>
+
+<br>
+<br>
 
 
 ## Component List
