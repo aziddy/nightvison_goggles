@@ -2,7 +2,7 @@
 
 Nightvision can be really easy. One way is to use infrared light, a camera and screen
 
-This can also be used for some people who legally blind and can't see in dark areas
+This can also be used for some people who are legally blind and can't see in dark areas
 
 <br>
 <br>
