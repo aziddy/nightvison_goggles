@@ -2,6 +2,8 @@
 
 Nightvision can be really easy. One way is to use infrared light, a camera and screen
 
+This can also be used for some people who legally blind and can't see in dark areas
+
 <br>
 <br>
 
@@ -107,7 +109,7 @@ So we if get a camera that can see Infrared, then connect it to a normal screen.
 
 Alot of cameras have IR filters to stop bright light from hitting the image sensor. We need to get rid of that so the camera can see the smallest amount light, including non visable light.
 
-It was adhesively bounded to edge of the camera sensors enclosure. So I took a blow dryer and knife to take it off
+It was adhesively bounded to edge of the camera sensors enclosure. So I used a blow dryer and knife to take it off
 
 <p align="center" style="vertical-align: top; position: relative" >
 <img align="top" style="vertical-align:top" src="https://github.com/aziddy/nightvison_goggles/blob/master/media/camera_ir_filter_illustrated.png?raw=true" width="400"/>
