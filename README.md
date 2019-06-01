@@ -17,7 +17,9 @@ This can also be used for some people who are legally blind and can't see in dar
 
 <img align="top" style="vertical-align:top;" src="https://github.com/aziddy/nightvison_goggles/blob/master/media/boop.png?raw=true" width="400"/>
 
-<img align="top" style="vertical-align:top" src="https://github.com/aziddy/nightvison_goggles/blob/master/media/2.jpg?raw=true" width="400"/>
+<img align="top" style="vertical-align:top" src="https://github.com/aziddy/nightvison_goggles/blob/master/media/3g.gif" width="400"/>
+
+<img align="top" style="vertical-align:top" src="https://github.com/aziddy/nightvison_goggles/blob/master/media/2g.gif?raw=true" width="400"/>
 
 </p>
 
