@@ -2,7 +2,7 @@
 
 Nightvision can be really easy. One way is to use infrared light, a camera and screen
 
-But I mostly made it to fight the raccoons that think they own my backyard at night
+I mostly made it to fight the raccoons that think they own my backyard at night
 
 <br>
 <br>
