@@ -2,7 +2,7 @@
 
 Nightvision can be really easy. One way is to use infrared light, a camera and screen
 
-This can also be used for some people who are legally blind and can't see in dark areas
+But I mostly made it to fight the raccoons that think they own my backyard at night
 
 <br>
 <br>
