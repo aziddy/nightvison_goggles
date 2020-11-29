@@ -126,6 +126,8 @@ The convertor is boosting 5v from the battery bank, up to 12v
 
 Both the camera and the screen can operate at 12v. The boosted voltage can be changed though, depending on the voltage ranges on both
 
+JUST USE A SWITCHING BUCK CONVERTOR
+
 <p align="center" style="vertical-align: top; position: relative" >
 <img align="top" style="vertical-align:top" src="https://github.com/aziddy/nightvison_goggles/blob/master/media/wiring.PNG?raw=true" width="700"/>
   <br>
@@ -133,7 +135,7 @@ Both the camera and the screen can operate at 12v. The boosted voltage can be ch
   <br>
   <br>
   <br>
-  The LM350 outputs ~1.5v with the given resistor config below and ~0.4-0.5A draw from the IR Light. The LM350 seems to get real hot though, so I would recommend a small buck converter if you have one on hand
+  <s>The LM350 outputs ~1.5v with the given resistor config below and ~0.4-0.5A draw from the IR Light. The LM350 seems to get real hot though, so I would recommend a small buck converter if you have one on hand</s>
   <br>
   <br>
     <img align="top" style="vertical-align:top" src="https://github.com/aziddy/nightvison_goggles/blob/master/media/wiring_proto.PNG?raw=true" width="400"/>
