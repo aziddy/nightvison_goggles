@@ -58,7 +58,7 @@ So there obviously forms of light we can see. Like light bulbs, screens etc ...
 
 <br>
 <br>
-So we if get a camera that can see Infrared, then connect it to a normal screen. Then we can see what camera can see, therefore we can see the Infrared now
+So if we get a camera that can see Infrared, then connect it to a normal screen. Then we can see what camera can see, therefore we can see the Infrared now
 <br>
 <br>
 <p align="center" style="vertical-align: top; position: relative" >
